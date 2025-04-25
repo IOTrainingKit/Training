@@ -4,6 +4,7 @@ options(scipen=999)
 ####################################
 #             PART 1               #
 ####################################
+#link for the videos: https://www.youtube.com/playlist?list=PL1NulKAe6lOwV4yvRT7evM-Asxuw4FTue
 
 library(readxl)
 # loading the data 
