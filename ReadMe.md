@@ -1,10 +1,10 @@
-# 📘 Introduction to the Input-Output Analysis Training Kit
+# 📘 ESTEEM Training Kit
 
-Welcome to the **Input-Output Analysis Training Kit** — a structured, hands-on course designed to introduce key concepts and techniques in input-output (IO) modeling. Whether you're new to the topic or looking to sharpen your skills, this training package provides guided exercises, real-world data, and five core models to help you explore and apply IO methods effectively.
+Welcome to the **ESTEEM Training Kit** — an introductory and interactive course designed to equip you with the general tools to model macroeconomic constraints of the low-carbon transition, including sectoral transition dynamics, in developing countries. The course will provide information the theoretical concepts of IO modeling, a deep understanding of related modeling techniques, and a comprehensive overview of the ESTEEM model developed by the French Development Agency (AFD) focusing both on the static and dynamic approaches. This interactive training package provides background knowledge, guided exercises, real-world data, and four core models to help you explore and master the ESTEEM model effectively.
 
 ## 🎯 Objective
 
-This training kit aims to provide learners with a **clear, step-by-step understanding** of input-output analysis using real economic and environmental data. We walk through the construction of various models — from basic national IO tables to more advanced multi-regional environmental extensions — combining theoretical understanding with practical implementation.
+This training kit aims to provide learners with a clear, step-by-step understanding of the ESTEEM model in both its static and dynamic form, moving from **basic national input-output analysis** to the explicit construction of the **ESTEEM model** using advanced multi-regional IO databases, including various environmental extensions up until the construction of a fully-integrated **dynamic input-output model for the low-carbon transition**. 
 
 ## 📊 Data Sources
 
@@ -46,6 +46,8 @@ To complete the exercises and models, you will need:
 - [**RStudio**](https://posit.co/download/rstudio-desktop/) – User-friendly IDE for R
 
 - [**Julia**](https://julialang.org/) – Advanced programming language 
+
+- [**VS Code**](https://code.visualstudio.com/) - Advanced code editor
   
 - **Excel** – Used for initial data exploration and visualization
 
@@ -95,15 +97,11 @@ The training kit is organized around five progressive models, each building on t
 
    *4.2 Endogenous Investment*
 
-   *4.3 The Dynamic ESTEEM Model*
+   *4.3 The Dynamic ESTEEM - Productive dynamics*
 
-   *4.4 Exercises Module 4*
+   *4.4 The Dynamic ESTEEM - Macroeconomic dynamics*
 
-5. **Model 5: SFC Models**  
-   *JHAN*
-
-6. **Model 5: SFC-IO Models**  
-   *6.1 IO-GEMMES*
+   *4.5 Exercises Module 4*
 
 ---
 
